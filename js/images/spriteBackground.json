@@ -1,0 +1,195 @@
+{
+	"frames": {
+		"Bathroom_night_lightson.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 1000,
+				"h": 563
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1000,
+				"h": 563
+			},
+			"sourceSize": {
+				"w": 1000,
+				"h": 563
+			}
+		},
+		"Blue_door__2_-removebg-preview.png": {
+			"frame": {
+				"x": 1003,
+				"y": 1,
+				"w": 191,
+				"h": 338
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 191,
+				"h": 338
+			},
+			"sourceSize": {
+				"w": 191,
+				"h": 338
+			}
+		},
+		"Cabin_day.png": {
+			"frame": {
+				"x": 1003,
+				"y": 341,
+				"w": 1000,
+				"h": 563
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1000,
+				"h": 563
+			},
+			"sourceSize": {
+				"w": 1000,
+				"h": 563
+			}
+		},
+		"Cabin_fixed_day_lumber.png": {
+			"frame": {
+				"x": 1,
+				"y": 906,
+				"w": 1000,
+				"h": 563
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1000,
+				"h": 563
+			},
+			"sourceSize": {
+				"w": 1000,
+				"h": 563
+			}
+		},
+		"Kitchen_day.png": {
+			"frame": {
+				"x": 1003,
+				"y": 906,
+				"w": 1000,
+				"h": 563
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1000,
+				"h": 563
+			},
+			"sourceSize": {
+				"w": 1000,
+				"h": 563
+			}
+		},
+		"Lake_day.png": {
+			"frame": {
+				"x": 1,
+				"y": 1471,
+				"w": 1000,
+				"h": 563
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1000,
+				"h": 563
+			},
+			"sourceSize": {
+				"w": 1000,
+				"h": 563
+			}
+		},
+		"Messhall_day.png": {
+			"frame": {
+				"x": 1003,
+				"y": 1471,
+				"w": 1000,
+				"h": 563
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1000,
+				"h": 563
+			},
+			"sourceSize": {
+				"w": 1000,
+				"h": 563
+			}
+		},
+		"Office_day (1).png": {
+			"frame": {
+				"x": 2005,
+				"y": 1,
+				"w": 1000,
+				"h": 563
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1000,
+				"h": 563
+			},
+			"sourceSize": {
+				"w": 1000,
+				"h": 563
+			}
+		},
+		"camp_main.png": {
+			"frame": {
+				"x": 2005,
+				"y": 566,
+				"w": 1000,
+				"h": 563
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1000,
+				"h": 563
+			},
+			"sourceSize": {
+				"w": 1000,
+				"h": 563
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spriteBackground.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 3006,
+			"h": 2035
+		},
+		"scale": "1"
+	}
+}
